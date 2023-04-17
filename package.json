@@ -2,7 +2,7 @@
   "name": "yummy-app-front",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://annatsepilova.github.io/yummy-app-front/",
+  "homepage": "https://GoitStudentsWorks.github.io/react_node_bc_37_AnnaTsepilova/",
   "dependencies": {
     "@cloudinary/react": "^1.11.2",
     "@cloudinary/url-gen": "^1.10.0",
