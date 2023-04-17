@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_node_bc_37_AnnaTsepilova/static/css/main.cdc2428b.css",
-    "main.js": "/react_node_bc_37_AnnaTsepilova/static/js/main.620420dc.js",
+    "main.js": "/react_node_bc_37_AnnaTsepilova/static/js/main.350f5c2a.js",
     "static/js/773.7fc2b88a.chunk.js": "/react_node_bc_37_AnnaTsepilova/static/js/773.7fc2b88a.chunk.js",
     "static/js/126.31709f6b.chunk.js": "/react_node_bc_37_AnnaTsepilova/static/js/126.31709f6b.chunk.js",
     "static/js/912.28341f90.chunk.js": "/react_node_bc_37_AnnaTsepilova/static/js/912.28341f90.chunk.js",
@@ -97,7 +97,7 @@
     "static/media/decrease.svg": "/react_node_bc_37_AnnaTsepilova/static/media/decrease.fc2439265e0e7f523ec586d3ebb41865.svg",
     "static/media/increase.svg": "/react_node_bc_37_AnnaTsepilova/static/media/increase.41c21a02084792062685394d4d64f5c1.svg",
     "main.cdc2428b.css.map": "/react_node_bc_37_AnnaTsepilova/static/css/main.cdc2428b.css.map",
-    "main.620420dc.js.map": "/react_node_bc_37_AnnaTsepilova/static/js/main.620420dc.js.map",
+    "main.350f5c2a.js.map": "/react_node_bc_37_AnnaTsepilova/static/js/main.350f5c2a.js.map",
     "773.7fc2b88a.chunk.js.map": "/react_node_bc_37_AnnaTsepilova/static/js/773.7fc2b88a.chunk.js.map",
     "126.31709f6b.chunk.js.map": "/react_node_bc_37_AnnaTsepilova/static/js/126.31709f6b.chunk.js.map",
     "912.28341f90.chunk.js.map": "/react_node_bc_37_AnnaTsepilova/static/js/912.28341f90.chunk.js.map",
@@ -120,6 +120,6 @@
   },
   "entrypoints": [
     "static/css/main.cdc2428b.css",
-    "static/js/main.620420dc.js"
+    "static/js/main.350f5c2a.js"
   ]
 }
